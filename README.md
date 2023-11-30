@@ -8,7 +8,7 @@ AtliQ Hardwares is a consumer electronics company expanding rapidly but is not a
 
 ## Project Description:
 
-In this project, the goal is to be one report which could be used by stakeholders from sales, marketing, finance and executive team. The focus is made on the following
+In this project, the goal is to have one report which could be used by stakeholders from sales, marketing, finance and executive team. The focus is on the following:
 
 1. Robust Data Modeling
 2. User-empathetic Report design
